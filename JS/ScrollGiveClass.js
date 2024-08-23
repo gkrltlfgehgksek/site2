@@ -1,6 +1,6 @@
 /*
     ScrollGiveClass 플러그인 
-    최종수정일:2024.08.07
+    최종수정일:2024.07.26
 */
 
 function ScrollGiveClass(target="body", options={}){
